@@ -21,8 +21,9 @@ build/astra_htsim/build/
 *.et
 !examples/**/*.et
 
-# vscode
+# vscode $ vs
 .vscode
+.vs
 
 # logs
 **/*.log
